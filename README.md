@@ -32,9 +32,9 @@ E-Commerce de Hardware, donde puedes encontrar una gran variedad de hardware, fi
 Javascript | React | Auth0 | Redux | Node | Sequelize | PostgreSQL | Git Hub | Figma | Trello
 <br>
 <div align="row" >
-      <img src="https://postimg.cc/VSh5TD3Q][img]https://i.postimg.cc/VSh5TD3Q/Foto-GG-1.png" width="333" height="205"  />
-      <img src="[https://i.ibb.co/m6Gg3CP/FOTO-GG2.jpg]" width="333" height="205"  />
-      <img src="https://i.imgur.com/BVpathh.png" width="333" height="205"  />
+      <img src="https://i.postimg.cc/VSh5TD3Q/Foto-GG-1.png" width="333" height="205"  />
+      <img src="https://i.postimg.cc/TyK3rnhk/FOTO-GG2.png" width="333" height="205"  />
+      <img src="https://i.postimg.cc/18J809Bz/FOTO-GG3.png" width="333" height="205"  />
 </div>
 <a href="https://gamergalaxyfront-production.up.railway.app/" fontSize="34">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/183678369-e773f0f2-6f7b-4921-acac-36155eae3322.svg" width="30" height="30"/>
@@ -53,7 +53,7 @@ Javascript | React | Auth0 | Redux | Node | Sequelize | PostgreSQL | Git Hub | F
 Proyecto Individual de Paises, el objetivo era diseñar y desarrollar una App de Paises de todo el mundo que incluía, búsquedas, ordenamientos, agregar información a los países por parte de los usuarios, implementar un componente de inicio de sesión y filtros combinados.  Technologies:<br>
 Javascript | HTML | CSS | React | Redux Toolkit | Node | Sequelize | PostgreSQL<br>
 <div align="row" >
-      <img src="https://i.postimg.cc/LnkYXkZL/countries-FOTO.png" width="333" height="205"  />
+      <img src="https://i.postimg.cc/LnkYXkZL/countries-FOTO.png" width="300" height="200"  />
 </div>
 
 </br>
