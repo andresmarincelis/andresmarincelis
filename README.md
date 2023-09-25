@@ -23,6 +23,7 @@ const AndrésMarin = {
       {GamerGalaxy: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Auth0', EmailJS]},
       {PokeApp: ['React', 'Redux Toolkit', 'NodeJs', 'Express', 'Sequelize']}
     ],
+    FutureTechnologies: ['Typescript', 'React Native', 'Prisma'],
 }
 
 
