@@ -49,7 +49,7 @@ Javascript | React | Auth0 | Redux | Node | Sequelize | PostgreSQL | Git Hub | F
 
 <br>
 
-### Pokemon App
+### Countries App
 Individual project where I could join and practice the knowledge delivered by Henry.<br>
 It is a SPA where you can use combined filters, search and sort different types of pokemon. There is also the possibility to create your own pokemon and join them to a database.  Technologies:<br>
 Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
@@ -78,7 +78,7 @@ Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
 <p>
     <a href="https://andresmarincelis@gmail.com">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
-      andresmarincelis@hotmail.com
+      andresmarincelis@gmail.com
     </a>    
     <br>
     <a href="https://www.linkedin.com/in/andresmarincelis/">
