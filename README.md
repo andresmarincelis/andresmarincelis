@@ -56,7 +56,7 @@ Javascript | React | Auth0 | Redux | Node | Sequelize | PostgreSQL | Git Hub | F
 Proyecto Individual de Paises, el objetivo era diseñar y desarrollar una App de Paises de todo el mundo que incluía, búsquedas, ordenamientos, agregar información a los países por parte de los usuarios, implementar un componente de inicio de sesión y filtros combinados.  Technologies:<br>
 Javascript | HTML | CSS | React | Redux Toolkit | Node | Sequelize | PostgreSQL<br>
 <div align="row" >
-      <img src="https://i.postimg.cc/tCwhB2qS/countries-FOTO.png" width="333" height="205"  />
+      <img src="https://i.postimg.cc/tCwhB2qS/countries-FOTO.png" width="350" height="205"  />
 </div>
 
 </br>
