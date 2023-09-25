@@ -7,6 +7,7 @@ Mis aptitudes son la capacidad de trabajar en equipo, pensamiento creativo, reso
 Busco estar en un lugar de trabajo donde pueda aportar, que me plantee desafíos y nuevos aprendizajes que me permitan seguir creciendo.<br>
 <br>
 
+
 ## Languages and tools
 js
 const AndrésMarin = {
