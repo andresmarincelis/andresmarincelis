@@ -1,10 +1,10 @@
 <!--![portada](https://www.ibizsoftinc.com/images/eCommerce-Technology-Agnostic.gif)-->
 
-# **Hello, I'm [Andrés Marin](https://www.linkedin.com/in/andresmarincelis/)** <img width="40" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
+# **Hola!, Soy [Andrés Marin](https://www.linkedin.com/in/andresmarincelis/)** <img width="40" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
 
-Engineering degree from Universidad del Desarrollo with a major in finance.   <br>
-Today I am totally excited and focused on continuing my career as a Full Stack Developer, meeting new challenges and learning new technologies that will help me grow in this path, especially I want to develop in the blockchain area eventually. <br>
-I really like everything that is Front-end as well as Back-end.<br>
+Desarrollador Full-Stack apasionado por el mundo de la tecnología.   <br>
+Mis aptitudes son la capacidad de trabajar en equipo, pensamiento creativo, resolución de problemas, comunicación y autonomía. Mi experiencia de desarrollo abarca tanto el Front-End como el Back-End utilizando tecnologías de vanguardia. <br>
+Busco estar en un lugar de trabajo donde pueda aportar, que me plantee desafíos y nuevos aprendizajes que me permitan seguir creciendo.<br>
 <br>
 
 ## Languages and tools
