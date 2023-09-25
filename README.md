@@ -28,11 +28,11 @@ const AndrésMarin = {
 
 ## 📌 My Projects
 ### GamerGalaxy
-E-Commerce de Hardware, donde puede encontrar una gran variedad de hardware, filtrar por categorías, ordenarlos por precio, visualizar detalles de cada producto. Dicho proyecto posee un carrito de compras, auth0 como tecnología de registro e inicio de sesión, api MP para pagos y una sección especial "arma tu pc" en el cual una persona sin conocimientos de hardware podrá armar su pc eligiendo componentes 100% compartibles unos con otros.<br>
+E-Commerce de Hardware, donde puedes encontrar una gran variedad de hardware, filtrar por categorías, ordenarlos por precio, visualizar detalles de cada producto. Dicho proyecto posee un carrito de compras, auth0 como tecnología de registro e inicio de sesión, api MP para pagos y una sección especial "arma tu pc" en el cual una persona sin conocimientos de hardware podrá armar su pc eligiendo componentes 100% compartibles unos con otros.<br>
 Javascript | React | Auth0 | Redux | Node | Sequelize | PostgreSQL | Git Hub | Figma | Trello
 <br>
 <div align="row" >
-      <img src="[https://i.imgur.com/Gu9Zzqu.png](https://i.ibb.co/WgKzx71/Foto-GG-1.jpg)" width="333" height="205"  />
+      <img src="[[https://i.imgur.com/Gu9Zzqu.png](https://i.ibb.co/WgKzx71/Foto-GG-1.jpg]))" width="333" height="205"  />
       <img src="[https://i.imgur.com/ZgRHUeD.png](https://i.ibb.co/m6Gg3CP/FOTO-GG2.jpg)" width="333" height="205"  />
       <img src="https://i.imgur.com/BVpathh.png" width="333" height="205"  />
 </div>
