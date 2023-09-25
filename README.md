@@ -27,19 +27,18 @@ const AndrésMarin = {
 
 
 ## 📌 My Projects
-### Prode
-Prode was our proposed idea for the final project of SoyHenry's Full Stack Development bootcamp. 
-It is a SPA that was created with the purpose of making sports bets between friends or online with other people. The main features of the project is to be able to create user, log in, modifiable profile, data persistence, admin panel, among others...<br>
-Typescript | React | Chakra-ui | Redux Toolkit | Node | Prisma | PostgreSQL | Git Hub | Figma | Trello
+### GamerGalaxy
+E-Commerce de Hardware, donde puede encontrar una gran variedad de hardware, filtrar por categorías, ordenarlos por precio, visualizar detalles de cada producto. Dicho proyecto posee un carrito de compras, auth0 como tecnología de registro e inicio de sesión, api MP para pagos y una sección especial "arma tu pc" en el cual una persona sin conocimientos de hardware podrá armar su pc eligiendo componentes 100% compartibles unos con otros.<br>
+Javascript | React | Auth0 | Redux | Node | Sequelize | PostgreSQL | Git Hub | Figma | Trello
 <br>
 <div align="row" >
-      <img src="https://i.imgur.com/Gu9Zzqu.png" width="333" height="205"  />
-      <img src="https://i.imgur.com/ZgRHUeD.png" width="333" height="205"  />
+      <img src="[https://i.imgur.com/Gu9Zzqu.png](https://i.ibb.co/WgKzx71/Foto-GG-1.jpg)" width="333" height="205"  />
+      <img src="[https://i.imgur.com/ZgRHUeD.png](https://i.ibb.co/m6Gg3CP/FOTO-GG2.jpg)" width="333" height="205"  />
       <img src="https://i.imgur.com/BVpathh.png" width="333" height="205"  />
 </div>
-<a href="https://prodemaster.netlify.app/" fontSize="34">
+<a href="[[https://prodemaster.netlify.app/](https://gamergalaxyfront-production.up.railway.app/)](https://gamergalaxyfront-production.up.railway.app/)" fontSize="34">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/183678369-e773f0f2-6f7b-4921-acac-36155eae3322.svg" width="30" height="30"/>
-      Prodemaster Deploy
+      GamerGalaxy Deploy
 </a>
 </br>
 <a href="https://github.com/Xxmbxxmb/PG-Henry">
