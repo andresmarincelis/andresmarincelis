@@ -76,14 +76,14 @@ Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
 ## 📫 Contact me 
 
 <p>
-    <a href="https://diegocerdacelis@hotmail.com">
+    <a href="https://andresmarincelis@gmail.com">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
-      diegocerdacelis@hotmail.com
+      andresmarincelis@hotmail.com
     </a>    
     <br>
-    <a href="https://www.linkedin.com/in/diegocerdacelis/">
+    <a href="https://www.linkedin.com/in/andresmarincelis/">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182481396-19c89e94-f3ba-4e33-9df4-f5b7a094cf8f.svg"/>
-      Diego Cerda Celis
+      Andrés Marin Celis
     </a>
 <p/>
 
