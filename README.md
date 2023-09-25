@@ -32,7 +32,7 @@ E-Commerce de Hardware, donde puedes encontrar una gran variedad de hardware, fi
 Javascript | React | Auth0 | Redux | Node | Sequelize | PostgreSQL | Git Hub | Figma | Trello
 <br>
 <div align="row" >
-      <img src="[https://i.ibb.co/WgKzx71/Foto-GG-1.jpg]" width="333" height="205"  />
+      <img src="https://postimg.cc/VSh5TD3Q][img]https://i.postimg.cc/VSh5TD3Q/Foto-GG-1.png" width="333" height="205"  />
       <img src="[https://i.ibb.co/m6Gg3CP/FOTO-GG2.jpg]" width="333" height="205"  />
       <img src="https://i.imgur.com/BVpathh.png" width="333" height="205"  />
 </div>
@@ -51,11 +51,9 @@ Javascript | React | Auth0 | Redux | Node | Sequelize | PostgreSQL | Git Hub | F
 
 ### Countries App
 Proyecto Individual de Paises, el objetivo era diseñar y desarrollar una App de Paises de todo el mundo que incluía, búsquedas, ordenamientos, agregar información a los países por parte de los usuarios, implementar un componente de inicio de sesión y filtros combinados.  Technologies:<br>
-Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
+Javascript | HTML | CSS | React | Redux Toolkit | Node | Sequelize | PostgreSQL<br>
 <div align="row" >
-      <img src="https://i.imgur.com/xuNwBBZ.png" width="333" height="205"  />
-      <img src="https://i.imgur.com/vI9w4E3.png" width="333" height="205"  />
-      <img src="https://i.imgur.com/a2YxyUO.png" width="333" height="205"  />
+      <img src="https://i.postimg.cc/LnkYXkZL/countries-FOTO.png" width="333" height="205"  />
 </div>
 
 </br>
