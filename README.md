@@ -32,9 +32,9 @@ E-Commerce de Hardware, donde puedes encontrar una gran variedad de hardware, fi
 Javascript | React | Auth0 | Redux | Node | Sequelize | PostgreSQL | Git Hub | Figma | Trello
 <br>
 <div align="row" >
-      <img src="https://i.postimg.cc/VSh5TD3Q/Foto-GG-1.png" width="333" height="205"  />
-      <img src="https://i.postimg.cc/TyK3rnhk/FOTO-GG2.png" width="333" height="205"  />
-      <img src="https://i.postimg.cc/18J809Bz/FOTO-GG3.png" width="333" height="205"  />
+      <img src="https://i.postimg.cc/VSh5TD3Q/Foto-GG-1.png" width="350" height="180"  />
+      <img src="https://i.postimg.cc/TyK3rnhk/FOTO-GG2.png" width="250" height="100"  />
+      <img src="https://i.postimg.cc/18J809Bz/FOTO-GG3.png" width="300" height="200"  />
 </div>
 <a href="https://gamergalaxyfront-production.up.railway.app/" fontSize="34">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/183678369-e773f0f2-6f7b-4921-acac-36155eae3322.svg" width="30" height="30"/>
