@@ -9,7 +9,7 @@ Busco estar en un lugar de trabajo donde pueda aportar, que me plantee desafíos
 
 
 ## Languages and tools
-js
+```js
 const AndrésMarin = {
   Skills: {
       BackEnd: [
@@ -25,6 +25,7 @@ const AndrésMarin = {
     ],
     FutureTechnologies: ['Typescript', 'React Native', 'Prisma'],
 }
+```
 
 
 
