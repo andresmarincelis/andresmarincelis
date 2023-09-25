@@ -36,12 +36,12 @@ Javascript | React | Auth0 | Redux | Node | Sequelize | PostgreSQL | Git Hub | F
       <img src="[https://i.ibb.co/m6Gg3CP/FOTO-GG2.jpg]" width="333" height="205"  />
       <img src="https://i.imgur.com/BVpathh.png" width="333" height="205"  />
 </div>
-<a href="[[https://prodemaster.netlify.app/](https://gamergalaxyfront-production.up.railway.app/)](https://gamergalaxyfront-production.up.railway.app/)" fontSize="34">
+<a href="https://gamergalaxyfront-production.up.railway.app/" fontSize="34">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/183678369-e773f0f2-6f7b-4921-acac-36155eae3322.svg" width="30" height="30"/>
       GamerGalaxy Deploy
 </a>
 </br>
-<a href="[https://github.com/andresmarincelis/pfgamergalaxy]">
+<a href="https://github.com/andresmarincelis/pfgamergalaxy">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/183681387-b4432771-313b-4527-a157-75786233b3b0.svg" width="25" height="25"/>
       Link a repo
 </a>
@@ -50,8 +50,7 @@ Javascript | React | Auth0 | Redux | Node | Sequelize | PostgreSQL | Git Hub | F
 <br>
 
 ### Countries App
-Individual project where I could join and practice the knowledge delivered by Henry.<br>
-It is a SPA where you can use combined filters, search and sort different types of pokemon. There is also the possibility to create your own pokemon and join them to a database.  Technologies:<br>
+Proyecto Individual de Paises, el objetivo era diseñar y desarrollar una App de Paises de todo el mundo que incluía, búsquedas, ordenamientos, agregar información a los países por parte de los usuarios, implementar un componente de inicio de sesión y filtros combinados.  Technologies:<br>
 Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
 <div align="row" >
       <img src="https://i.imgur.com/xuNwBBZ.png" width="333" height="205"  />
