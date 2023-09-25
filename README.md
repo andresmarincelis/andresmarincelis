@@ -9,22 +9,19 @@ Busco estar en un lugar de trabajo donde pueda aportar, que me plantee desafíos
 
 ## Languages and tools
 js
-const Xxmbxxmb = {
+const AndrésMarin = {
   Skills: {
       BackEnd: [
-          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'JWT', 'Typescript', 'Prisma']},
-          {Python: ['Numpy', 'Pandas', 'Matplot']}
+          {JavaScript: ['NodeJs', 'Express', 'Sequelize']},
         ],
       FrontEnd: [
-          {JavaScript: ['React', 'React Native', 'Redux Toolkit']}
+          {JavaScript: ['React', 'Redux Toolkit']}
         ]
     },
   Proyects: [
-      {Prode: ['React', 'Redux Toolkit', 'NodeJs', 'Express', 'Prisma', 'JWT']},
-      {PokeApp: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize']}
+      {GamerGalaxy: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Auth0', EmailJS]},
+      {PokeApp: ['React', 'Redux Toolkit', 'NodeJs', 'Express', 'Sequelize']}
     ],
-  FutureTechnologies: ['Solidity', 'Blockchain', 'Ruby'],
-  Aspirations: ['Blockchain Developer']
 }
 
 
